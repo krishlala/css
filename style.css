@@ -184,10 +184,10 @@ p {
 .lines {
     position: absolute;
     content: "";
-    top: 0;
+    top: 0px;
     width: 100%;
-    height: 100%;
+    border-radius: 12px;
+    height: 100px;
     background-image: url(lines.png);
     background-size: cover;
-    border-radius: 12px;
 }
