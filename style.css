@@ -189,4 +189,5 @@ p {
     height: 100%;
     background-image: url(lines.png);
     background-size: cover;
+    border-radius: 12px;
 }
