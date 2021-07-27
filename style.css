@@ -47,7 +47,7 @@ body {
 
 }
 
-h2 {
+h12 {
     text-align: center;
     position: relative;
 }
@@ -68,7 +68,7 @@ h2 {
     margin: 0 auto;
 }
 
-h3 {
+h13 {
     color: whitesmoke;
     font-weight: 400;
 }
@@ -156,7 +156,7 @@ p {
     margin: 0;
 }
 
-.large-feature h3 {
+.large-feature h13 {
     padding: 20px 0;
     font-size: 40px;
     font-weight: 500;
